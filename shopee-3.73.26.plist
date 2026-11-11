@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/iporn/ipa-install/releases/download/com.beeasy.shopee.vn-3.73.26-20261111/Shopee_3.73.26.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.beeasy.shopee.vn</string>
+				<key>bundle-version</key>
+				<string>3.73.26</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Shopee</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
